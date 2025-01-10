@@ -70,10 +70,7 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} VivacityMC.`,
-      },
+      footer: {},
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
