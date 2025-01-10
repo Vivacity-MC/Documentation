@@ -54,7 +54,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/coverimage.png',
       navbar: {
-        title: 'Vivacity',
+        title: 'VivacityMC',
         logo: {
           alt: '',
           src: 'img/favicon.gif',
