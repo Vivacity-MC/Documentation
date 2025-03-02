@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.gif',
 
   // Set the production url of your site here
-  url: 'https://vivacitymc.com',
+  url: 'https://wiki.vivacitymc.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
